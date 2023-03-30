@@ -6,7 +6,7 @@ This is a Python script that uses OpenCV and Deep Learning to detect faces, esti
 
 1. Clone the repository to your local machine:
 
-``git clone https://github.com/Devabubakar/age-gender-detection.git``
+``git clone https://github.com/Devabubakar/gender_age_prediction.git``
 
 2. Install the required packages using pip:
 
